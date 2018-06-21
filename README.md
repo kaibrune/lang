@@ -9,7 +9,7 @@ Recognize the current language and displays a message to switch to the translate
 
 ### Demo
 
-Give it a try [here](https://kaibrune.github.io/demo/lang/).
+Give it a try [here](https://kaibrune.github.io/lang/).
 
 
 ### Download
