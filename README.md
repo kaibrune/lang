@@ -3,7 +3,7 @@ Recognize the current language and displays a message to switch to the translate
 
 ### Features
 
-- displays <div> if browser language is english
+- displays `<div>` if browser language is english
 - customizable to any languages [(list of language codes)](https://www.metamodpro.com/browser-language-codes)
 - fast, small and easy to configure
 
