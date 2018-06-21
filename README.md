@@ -11,3 +11,7 @@ Recognize the current language and displays a message to switch to the translate
 
 Give it a try [here](https://kaibrune.github.io/demo/lang/).
 
+
+### Download
+
+Download the current version [here](https://github.com/kaibrune/darkmode/releases/tag/v1.0). 
